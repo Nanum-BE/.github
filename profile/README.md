@@ -59,12 +59,16 @@
 
 ---
 - Collaboration Tools
+
  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub" /> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira Software" /> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion" /> <img src="https://img.shields.io/badge/Miro-yellow?style=flat-square&logo=Miro&logoColor=000000" /> <img src="https://img.shields.io/badge/ Google Sheets-34A853?style=flat-square&logo=Google Sheets&logoColor=ffffff" /> 
 - FrontEnd
+
 <img src="https://img.shields.io/badge/ Figma-F24E1E?style=flat-square&logo=Figma&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=ffffff" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=ffffff"/> <img src="https://img.shields.io/badge/recoil-764ABC?style=flat-square&logo=react&logoColor=ffffff"/>
 - BackEnd
+
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Spring Cloud-6DB33F?style=flat-square&logo=Spring&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Spring Webflux-6DB33F?style=flat-square&logo=SpringBoot&logoColor=ffffff" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=ffffff" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Redis-DC282D?style=flat-square&logo=Redis&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch" /> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon S3&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-square&logo=Amazon RDS&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=Apache Kafka&logoColor=ffffff" />
 - Devtools
+
 <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Amazon API Gateway-FF4F8B?style=flat-square&logo=Amazon API Gateway&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=000000" /> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=ffffff" />
 
 
