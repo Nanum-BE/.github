@@ -42,7 +42,7 @@
 
 ---
 
-- **박찬흠** \- _Frontend/Backend -_ [fineman999](https://github.com/fineman999)
+- **박찬흠** \- _frontend/backend -_ [fineman999](https://github.com/fineman999)
   - [33cks1423@naver.com](mailto:33cks1423@naver.com)
 - **안대현** \- _backend -_ [ads0070](https://github.com/ads0070)
   - [gch05610@gmail.com](mailto:gch05610@gmail.com)
