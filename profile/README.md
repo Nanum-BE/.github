@@ -17,7 +17,7 @@
 
 ### 프로젝트
 
-- -   2022.08.15 ~ 2022.11.11 (45일/360시간)
+- -   2022.09.15 ~ 2022.11.11 (45일/360시간)
 - [Github - FrontEnd](https://github.com/chyg-ai/Nanum-FE)
 - [Github - BackEnd](https://github.com/Nanum-BE)
 - [Notion](https://ablaze-poultry-42b.notion.site/Nanum-04224172d6764662859813295aced137)
@@ -38,6 +38,7 @@
 
 
 <br/>
+
 ### 🔥 NANUM 팀원
 
 ---
