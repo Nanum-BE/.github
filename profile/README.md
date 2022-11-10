@@ -1,4 +1,5 @@
 
+
 ## 💛 SHARE HOUSE PLAYFORM PJT BY NANUM
 
 ---
@@ -9,15 +10,40 @@
   <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f6060bdc-4567-487e-bf99-8a9db0302a12/notion.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221106%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221106T090934Z&X-Amz-Expires=86400&X-Amz-Signature=a4b66cdcec44cacab245c8d60ea0e110a84704fe4bd1e406fa662b30782eb5ec&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22notion.png%22&x-id=GetObject" alt="NANUM" width="number" />
 </p>
 
-### 목표
+</br></br>
+
+### 한 줄 소개
 
 - 외로움 없이 1인 가구로 살아나가고 싶은 사람들을 위한 쉐어하우스 서비스 플랫폼
+---
+
+</br></br>
+
+### 기획 배경
+
+- 1인가구의 연령대별 비율이 20대와 30대가 많고 이에 대안책으로 쉐어하우스가 많은 주목
+- 구체적으로 집값은 계속해서 나날이 증가하고 1인 가구의 증가에 따라 고독사와 같은 사회문제와도 맞물리게 되는데 정작 쉐어하우스에 대한 정보를 교환할 공간도 부족
+---
+
+
+### 목표
+
 - 팀 프로젝트를 수행하며, SW 개발 뿐만 아니라 팀원들과 함께 문제를 해결하기 위한 협업 역량을 배양
-  </br></br>
+---
+### 서비스 특징
+- 투어와 입주
+			- 호스트가 등록한 하우스를 입주자가 투어 및 입주를 할 수 있다.
+ - 호스트 및 입주자와의 채팅
+		  - 호스트 및 입주자들과의 소통을 위한 채팅 기능을 구현하여 하우스에 대해 궁금한 점을 즉각적으로 물어볼 수 있도록 하고, 입주자들 간 소통의 장을 마련한다.
+- 사용자 간의 쪽지
+		-	관심 있는 항스에 거주 중인 사용자에게 쪽지를 보낼 수 있는 기능을 구현하여 생생한 정보를 얻을 수 있도록 한다.
+- 정보 공유가 가능한 커뮤니티
+		- 사용자끼리 정보 공유가 가능한 커뮤니티를 마련하여 하우스 정보, 팁, 메이트 구하기 등 활발한 소통이 가능하도록 한다.
+---
 
 ### 프로젝트
 
-- -   2022.09.15 ~ 2022.11.11 (45일/360시간)
+-  2022.09.15 ~ 2022.11.11 (45일/360시간)
 - [Github - FrontEnd](https://github.com/chyg-ai/Nanum-FE)
 - [Github - BackEnd](https://github.com/Nanum-BE)
 - [Notion](https://ablaze-poultry-42b.notion.site/Nanum-04224172d6764662859813295aced137)
@@ -39,7 +65,7 @@
 
 <br/>
 
-### 🔥 NANUM 팀원
+### 🔥 1. NANUM 팀원
 
 ---
 
@@ -56,7 +82,7 @@
   
 <br/>
 
-### **_⚙_** 주요 기술 스택
+### **_⚙_** 2. 주요 기술 스택
 
 ---
 - Collaboration Tools
