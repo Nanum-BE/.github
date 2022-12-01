@@ -108,21 +108,21 @@
 ### **_🔨_** 3. 아키텍쳐
 
 <p align="center">
-  <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c2a6939f-730c-4a98-9aa9-70db442df0b2/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221110T053321Z&X-Amz-Expires=86400&X-Amz-Signature=8b92f0dcbd7ebe8c19c817472f65da74ccb2a2cc64d9dd0fe1081abdf1d13af4&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject" alt="NANUM" width="number" />
+  <img src="../ci_cd.png" alt="NANUM" width="number" />
 </p>
 
 <p align="center">
-  <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/97ca24ec-5e06-4dec-89dc-ec7357c885ca/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221127%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221127T083158Z&X-Amz-Expires=86400&X-Amz-Signature=fde20466652392c82f523bb86e7205b8433aaabe2300459f79d3ee3c88b74689&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject" alt="NANUM" width="number" />
+  <img src="../in.png" alt="NANUM" width="number" />
 </p>
 <p align="center">
-  <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ae5e5767-3459-4653-961f-1430a4762f9a/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221127%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221127T083354Z&X-Amz-Expires=86400&X-Amz-Signature=5feba0065384ef76212694f2f485530c98b87bd9ce956a0bfde8a6ba4e1f626c&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject" alt="NANUM" width="number" />
+  <img src="../out.png" alt="NANUM" width="number" />
 </p>
 ---
 
 ### **_🔗_** 4. ER Diagram
 
 <p align="center">
-  <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/603dc3d6-6ac2-480c-a8ce-082791d1fc86/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221110T053854Z&X-Amz-Expires=86400&X-Amz-Signature=897b2f7c17534171ecc7d0309921fd2655ea065b89655e050a9bdddf720c51ab&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject" alt="NANUM" width="number" />
+  <img src="../db.png" alt="NANUM" width="number" />
   
 ###  🎞 3. 서비스 소개 
  
