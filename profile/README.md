@@ -7,7 +7,7 @@
 ### NANUM - 쉐어 하우스 프로젝트
 
 <p align="center">
-  <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f6060bdc-4567-487e-bf99-8a9db0302a12/notion.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221127%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221127T083416Z&X-Amz-Expires=86400&X-Amz-Signature=c19cc4c11033dcd4aab8b61dc35821434265713a3d2d9447b1b9ca1ac3e9fdd1&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22notion.png%22&x-id=GetObject" alt="NANUM" width="number" />
+  <img src="../title.png" alt="NANUM" width="number" />
 </p>
 
 </br></br>
