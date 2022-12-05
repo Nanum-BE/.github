@@ -124,7 +124,7 @@
 ### **_🔗_** 4. ER Diagram
 
 <p align="center">
-  <img src="../db.png" alt="NANUM" width="number" />
+  <img src="https://github.com/Nanum-BE/.github/blob/main/db.png" alt="NANUM" width="number" />
   
 ###  🎞 3. 서비스 소개 
  
