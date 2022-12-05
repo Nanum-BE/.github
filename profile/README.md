@@ -7,7 +7,7 @@
 ### NANUM - 쉐어 하우스 프로젝트
 
 <p align="center">
-  <img src="../title.png" alt="NANUM" width="number" />
+  <img src="https://github.com/Nanum-BE/.github/blob/main/title.png" alt="NANUM" width="number" />
 </p>
 
 </br></br>
@@ -108,15 +108,17 @@
 ### **_🔨_** 3. 아키텍쳐
 
 <p align="center">
-  <img src="../ci_cd.png" alt="NANUM" width="number" />
+  <img src="https://github.com/Nanum-BE/.github/blob/main/ci_cd.png" alt="CI/CD 아키텍처" width="number" />
 </p>
 
 <p align="center">
-  <img src="../in.png" alt="NANUM" width="number" />
+  <img src="https://github.com/Nanum-BE/.github/blob/main/out.png" alt="외부 아키텍처" width="number" />
 </p>
+
 <p align="center">
-  <img src="../out.png" alt="NANUM" width="number" />
+  <img src="https://github.com/Nanum-BE/.github/blob/main/in.png" alt="내부 아키텍처" width="number" />
 </p>
+
 ---
 
 ### **_🔗_** 4. ER Diagram
